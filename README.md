@@ -14,11 +14,13 @@ With FraudDetect, you can take control of your fraud prevention efforts through 
 * Identify Scam Emails
 
 # Installation 
-Install all required libraries with command
+Install all required libraries with the command
 
 `pip install -r requirement.txt`
 
 # Usage
 1. Run the main python file
+   
    `python main.py`
-3. Open up the link: http://127.0.0.1:8080/ in your browser to load the web page
+   
+2. Open up the link: http://127.0.0.1:8080/ in your browser to load the web page
