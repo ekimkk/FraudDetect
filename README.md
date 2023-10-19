@@ -20,7 +20,9 @@ Install all required libraries with the command
 
 # Usage
 1. Run the main python file
-   
+
+
    `python main.py`
+
    
-2. Open up the link: http://127.0.0.1:8080/ in your browser to load the web page
+1. Open up the link: http://127.0.0.1:8080/ in your browser to load the web page
